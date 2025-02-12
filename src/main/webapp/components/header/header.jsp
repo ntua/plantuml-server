@@ -1,4 +1,4 @@
-<h1>PlantUML Server</h1>
+<h1>PlantUML Server @ Softlab NTUA</h1>
 <% if (showSocialButtons) { %>
   <%@ include file="/components/header/social-buttons.jsp" %>
 <% } %>

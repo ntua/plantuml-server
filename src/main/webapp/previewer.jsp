@@ -15,7 +15,7 @@
 <html lang="en" xmlns="http://www.w3.org/1999/xhtml">
 <head>
   <%@ include file="/components/app-head.jsp" %>
-  <title>PlantUML Server</title>
+  <title>PlantUML Server @ Softlab</title>
   <style>
     .content.viewer-content {
       height: 100%;
